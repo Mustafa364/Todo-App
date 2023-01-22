@@ -1,0 +1,8 @@
+ .dbtn{
+   margin-left: 10%;
+ }
+ @media only screen and (max-width: 600px) {
+   body {
+     background-color:#352f5b;;
+   }
+ }
